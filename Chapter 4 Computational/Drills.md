@@ -72,7 +72,19 @@
 	The input and output of this program is :
 
 	```cpp
-	
+	6 6
+	The numbers 6 & 6 are equal
+
+	9 123
+	The Smaller Value is: 9
+	The Larger Value is: 123
+
+	213 6
+	The Smaller Value is: 6
+	The Larger Value is: 213
+
+
+
 	```
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -80,5 +92,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzI5NTIxMCwtNDMyODQwMDYzXX0=
+eyJoaXN0b3J5IjpbLTU4ODE3MzE2NywxNDIzMjk1MjEwLC00Mz
+I4NDAwNjNdfQ==
 -->
