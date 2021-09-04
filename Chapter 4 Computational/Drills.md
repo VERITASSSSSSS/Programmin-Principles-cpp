@@ -31,12 +31,39 @@
 2.  Change the program to write out  `the  smaller  value  is:`  followed by the smaller of the numbers and  `the  larger  value  is:`  followed by the larger value.
 
 	```cpp
-	
+	#include <iostream>
+	#include <vector>
+	using namespace std;
+
+	int main()
+	{
+		int i; int j;
+		while (cin >> i >> j)
+		{
+			if (i < j)
+				cout << "The Smaller Value is: " << i << '\n' << "The Larger Value is: " << j<<"\n\n";
+
+			else
+				cout << "The Smaller Value is: " << j << '\n' << "The Larger Value is: " << i << "\n\n";
+		}
+		return 0;
+	}
+
 	```
 	The input and output of this program is :
 
 	```cpp
+	4 32321
+	The Smaller Value is: 4
+	The Larger Value is: 32321
 
+	4 29
+	The Smaller Value is: 4
+	The Larger Value is: 29
+
+	27 298
+	The Smaller Value is: 27
+	The Larger Value is: 298
 	```
 	3.   Augment the program so that it writes the line  `the  numbers  are  equal`  (only) if they are equal.
 
@@ -54,5 +81,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjg0MDA2M119
+eyJoaXN0b3J5IjpbLTEwMjM2NTc1MTIsLTQzMjg0MDA2M119
 -->
