@@ -67,7 +67,28 @@
 	3.   Augment the program so that it writes the line  `the  numbers  are  equal`  (only) if they are equal.
 
 	```cpp
-	
+	#include <iostream>
+	#include <vector>
+	using namespace std;
+
+	int main()
+	{
+		int i; int j;
+		while (cin >> i >> j)
+		{
+			if (i == j)
+				cout << "The  numbers " << i << " & " << j << " are  equal";
+
+			else if (i < j)
+				cout << "The Smaller Value is: " << i << '\n' << "The Larger Value is: " << j << "\n\n";
+
+			else 
+				cout << "The Smaller Value is: " << j << '\n' << "The Larger Value is: " << i << "\n\n";
+
+		}
+		return 0;
+	}
+
 	```
 	The input and output of this program is :
 
@@ -89,6 +110,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODMxMDM1ODksMTQyMzI5NTIxMCwtND
-MyODQwMDYzXX0=
+eyJoaXN0b3J5IjpbMTM4MzMxMTk2MSwxNDIzMjk1MjEwLC00Mz
+I4NDAwNjNdfQ==
 -->
