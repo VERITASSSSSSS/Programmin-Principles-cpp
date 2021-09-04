@@ -48,7 +48,6 @@
 		}
 		return 0;
 	}
-
 	```
 	The input and output of this program is :
 
@@ -81,5 +80,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjM2NTc1MTIsLTQzMjg0MDA2M119
+eyJoaXN0b3J5IjpbMTQyMzI5NTIxMCwtNDMyODQwMDYzXX0=
 -->
