@@ -82,9 +82,6 @@
 	213 6
 	The Smaller Value is: 6
 	The Larger Value is: 213
-
-
-
 	```
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -92,6 +89,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODE3MzE2NywxNDIzMjk1MjEwLC00Mz
-I4NDAwNjNdfQ==
+eyJoaXN0b3J5IjpbLTEwODMxMDM1ODksMTQyMzI5NTIxMCwtND
+MyODQwMDYzXX0=
 -->
